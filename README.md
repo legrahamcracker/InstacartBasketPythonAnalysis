@@ -10,3 +10,12 @@ Are there particular times of the day when people spend the most money? <br>
 Create simpler price ranges. <br>
 Are there certain types of products that are more popular than others? <br>
 How do customers ordering behaviors differ based on demographics?
+
+Files were split amongst different folders labelled below
+
+01 Project Management<br>
+02 Data (This folder was not included as it was unncessary to include)<br>
+03 Scripts <br>
+04 Analysis <br>
+05 Send to Client
+
