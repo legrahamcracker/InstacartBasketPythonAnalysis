@@ -15,7 +15,7 @@ Python was used to analyze Instacart sales data to answer the following stakehol
 The datasets used were open-source information aside from the customers dataset. <br>
 The customers dataset is a fictional dataset for the purposes of using various Python functions.
 
-## Folders
+## Contents
 
 - 03 Scripts
 - 04 Analysis 
