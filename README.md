@@ -17,7 +17,7 @@ The customers dataset is a fictional dataset for the purposes of using various P
 
 ## Folders
 
-- Scripts
-- Analysis 
-- Send to Client
+- 03 Scripts
+- 04 Analysis 
+- 05 Send to Client
 
